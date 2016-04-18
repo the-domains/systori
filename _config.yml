@@ -1,0 +1,28 @@
+name: systori
+favicon: null
+layout_spectrum: 0.5752611416392028
+typography_spectrum: 0.11699043377302587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.472382306586951
+  lightness: 0.0722937264945358
+  saturation: 0.35429898323491216
+  rhythmicContrast: 0.9375168934930116
+purpose: []
